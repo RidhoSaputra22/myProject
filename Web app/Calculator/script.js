@@ -1,3 +1,5 @@
+//createdBy: Ridho Saputra
+
 var numberDisplay = "";
 var consoleDisplay = "";
 function displayNumber(num){
